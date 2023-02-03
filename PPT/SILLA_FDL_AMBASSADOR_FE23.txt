@@ -1,0 +1,21 @@
+Hi Jonghyun,
+Thank you for requesting the FDL Ambassador Workshop for Feb. 1 – 2nd.
+PLEASE NOTE INFORMATION BELOW REGARDING PRE-DELIVERY AND REQUIREMENTS.
+Your Event Code for this workshop is:
+	 
+	SILLA_FDL_AMBASSADOR_FE23
+
+You should already have access to the instructor version of this course in your dashboard now: https://courses.nvidia.com/dashboard.
+Students (on the day of the event), or TAs now can go to https://courses.nvidia.com/dli-event and enter the access code. Be careful, as copy/past may sometimes add “blanks” and you will end in a page not found. Please don’t share the code with anyone except TAs at this time (but of course do share with all workshop attendees on the day of the event). Please make sure the students use the code on the day of the event, otherwise we will lose attendance attributed to your workshop. You can test this code with a different email account you might have.
+Please review the Best Practices Checklist and Technical Review Checklist.
+Important – Please send a communication to all attendees to prepare for the workshop by creating an NVIDIA account, testing their laptop, and carefully reviewing the course datasheet to become familiar with Prerequisites, Learning Objectives, and Agenda Outline: https://developer.nvidia.com/dli/getready.
+Also please encourage your students to complete the assessment and certification if they do not finish during the live event.
+The Ambassador Event Kit is a great resource for assets for promotion. I suggest using the combination of Registration Page template + Data sheet info.
+Another great resource is the Platform Training course you also have access to in your account.
+Please let us know if you have any questions, and good luck with you workshop!
+Kind Regards,
+Joe Bungo
+Deep Learning Institute Program Manager
+NVIDIA Corporation
+developer.nvidia.com/teaching-kits
+Mobile: +1 (512) 293-7324
